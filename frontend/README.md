@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+E-commerce template for any industry Full Stack E-Commerce Website Using React JS, MongoDB, Express & Node JS
 
 ## Available Scripts
 
